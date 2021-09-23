@@ -4,3 +4,4 @@
 0.0.0.0 a.denik.cz
 0.0.0.0 c.seznam.cz
 0.0.0.0 c-ko.seznam.cz
+0.0.0.0 s.yimg.com
