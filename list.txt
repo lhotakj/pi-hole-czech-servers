@@ -1,0 +1,6 @@
+0.0.0.0 a.blesk.cz
+0.0.0.0 a.centrum.cz
+0.0.0.0 a.csfd.cz
+0.0.0.0 a.denik.cz
+0.0.0.0 c.seznam.cz
+0.0.0.0 c-ko.seznam.cz
