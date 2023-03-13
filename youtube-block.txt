@@ -1,3 +1,8 @@
 0.0.0.0 www.youtube.com
 0.0.0.0 youtube.com
 0.0.0.0 googlevideo.com
+0.0.0.0 i.ytimg.com
+0.0.0.0 play.google.com
+0.0.0.0 yt1.ggpht.com
+0.0.0.0 yt2.ggpht.com
+0.0.0.0 yt3.ggpht.com
